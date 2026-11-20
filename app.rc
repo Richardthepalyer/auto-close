@@ -1,0 +1,3 @@
+// Only used for MinGW builds (MSVC embeds the same settings via #pragma in main.cpp).
+// 1 = CREATEPROCESS_MANIFEST_RESOURCE_ID, 24 = RT_MANIFEST
+1 24 "app.manifest"

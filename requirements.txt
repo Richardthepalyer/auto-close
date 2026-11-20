@@ -1,0 +1,10 @@
+# C++ has no package manager requirements for this project - there are NO third-party libraries.
+# You only need a toolchain (pick ONE compiler):
+#
+#   OS:        Windows 10 / 11 (x64)
+#   Compiler:  Visual Studio 2019/2022 or "Build Tools for Visual Studio"
+#              (workload: "Desktop development with C++")        <- recommended
+#          or  MinGW-w64 / MSYS2 (g++ 9+ with -municode support)
+#   Build:     CMake 3.15 or newer
+#   Win32 libs used (all ship with Windows SDK / MinGW):
+#              user32 gdi32 comctl32 shell32 advapi32 dwmapi uxtheme version
